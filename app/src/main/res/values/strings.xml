@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FADELF_1202150035_MOSUl2</string>
+    <string name="pesan_sekarang">Pesan Sekarang</string>
+    <string name="take_away">Take Away</string>
+    <string name="dine_in">Dine In</string>
+    <string name="pilih_menu">Pilih menu:</string>
+    <string-array name="no">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+        <item>Meja 6</item>
+    </string-array>
+</resources>
